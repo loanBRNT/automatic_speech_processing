@@ -1,0 +1,3 @@
+deux au_carre
+racine_carree_de cent
+moins dix

@@ -1,0 +1,4 @@
+cinquante fois trente
+cent divise_par dix
+soixante multiplie_par deux
+cent puissance deux

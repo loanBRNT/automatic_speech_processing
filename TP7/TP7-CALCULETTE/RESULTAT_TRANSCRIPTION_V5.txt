@@ -1,0 +1,4 @@
+six plus trois fois dix
+trente fois dix divise_par six
+cent moins dix au_carre
+racine_carree_de cent moins quatre-vingt_dix

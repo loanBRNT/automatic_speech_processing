@@ -1,0 +1,7 @@
+cinq fois sept
+vingt divise_par cinq
+cinq multiplie_par dix
+trois puissance deux
+six fois vingt
+deux puissance huit
+vingt divise_par deux
